@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/mddanish06/mddanish06/assets/95996366/91e5a37a-706d-4e62-a4a6-cafb4593bfab)
 <h1 align="center">Hi 👋, I'm Md Danish Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
