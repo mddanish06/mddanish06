@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mddanish06&label=Profile%20views&color=0e75b6&style=flat" alt="mddanish06" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danishhh0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danishhh0611" height="30" width="40" /></a>
@@ -26,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mddanish06&show_icons=true&locale=en" alt="mddanish06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish06" alt="mddanish06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish06&" alt="mddanish06" /></p>
